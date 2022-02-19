@@ -1,2 +1,4 @@
 # Speech-Recognition
-Python sesli asistan örnektir geliştirmedim merhaba diyince merhaba diyor dil türkçe
+Sample speech recognition in Python.
+
+If speak the you 'merhaba', buy the reply 'merhaba' from tool.
